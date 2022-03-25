@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 
+# simulation data from numpy
 *.npz
+
+# sample data 
+**/imgs
