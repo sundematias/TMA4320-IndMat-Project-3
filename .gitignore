@@ -5,3 +5,8 @@
 
 # sample data 
 **/imgs
+
+# Virtual enviroment
+.venv
+
+punks.png
